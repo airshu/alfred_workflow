@@ -17,7 +17,7 @@
 在Alfred搜索框快速搜索github资源
 
 
-IP Address
+**IP&nbsp;Address**
 
 在Alfred搜索框快速查询本机的内网、外网IP，并可使用command+c快速复制
 
